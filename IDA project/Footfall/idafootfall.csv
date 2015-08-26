@@ -1,0 +1,625 @@
+shape id,day,hour,week id,footfall,category,area name
+22496,22/3/14,3,12,634,Work cluster,CBD area 1
+22670,22/3/14,3,12,220,Shopping cluster,Orchard Road 1
+23287,22/3/14,3,12,723,Airport,Changi Airport 2
+16430,22/3/14,4,12,947,Work cluster,CBD area 2
+4697,22/3/14,3,12,220,Residential area,Ang Mo Kio 2
+4911,22/3/14,3,12,1001,Shopping cluster,Orchard Rd 3
+11126,22/3/14,3,12,220,Residential area,Ang Mo Kio 2
+2764,22/3/14,4,12,220,Work cluster,CBD area 3
+12432,22/3/14,4,12,300,Airport,Changi Airport 1
+13593,22/3/14,4,12,826,Shopping cluster,Orchard Rd 2
+17668,22/3/14,4,12,1052,Residential area,Ang Mo Kio 1
+16417,22/3/14,4,12,220,Airport,Changi Airport 3
+22496,22/3/14,4,12,499,Work cluster,CBD area 1
+22670,22/3/14,4,12,220,Shopping cluster,Orchard Road 1
+23287,22/3/14,4,12,891,Airport,Changi Airport 2
+4697,22/3/14,4,12,220,Residential area,Ang Mo Kio 2
+8598,22/3/14,4,12,220,Airport,Changi Airport 2
+11126,22/3/14,4,12,220,Residential area,Ang Mo Kio 2
+2764,22/3/14,5,12,220,Work cluster,CBD area 3
+12432,22/3/14,5,12,645,Airport,Changi Airport 1
+13593,22/3/14,5,12,851,Shopping cluster,Orchard Rd 2
+17668,22/3/14,5,12,1098,Residential area,Ang Mo Kio 1
+16430,22/3/14,5,12,547,Work cluster,CBD area 2
+22496,22/3/14,5,12,334,Work cluster,CBD area 1
+22670,22/3/14,5,12,220,Shopping cluster,Orchard Road 1
+23287,22/3/14,5,12,1580,Airport,Changi Airport 2
+4697,22/3/14,5,12,220,Residential area,Ang Mo Kio 2
+4911,22/3/14,5,12,867,Shopping cluster,Orchard Rd 3
+8598,22/3/14,5,12,220,Airport,Changi Airport 2
+11126,22/3/14,5,12,220,Residential area,Ang Mo Kio 2
+2764,22/3/14,6,12,376,Work cluster,CBD area 3
+12432,22/3/14,6,12,1173,Airport,Changi Airport 1
+13593,22/3/14,6,12,1025,Shopping cluster,Orchard Rd 2
+17668,22/3/14,6,12,1199,Residential area,Ang Mo Kio 1
+16417,22/3/14,6,12,220,Airport,Changi Airport 3
+16430,22/3/14,6,12,618,Work cluster,CBD area 2
+22670,22/3/14,6,12,220,Shopping cluster,Orchard Road 1
+22496,22/3/14,6,12,385,Work cluster,CBD area 1
+23287,22/3/14,6,12,2512,Airport,Changi Airport 2
+4697,22/3/14,6,12,253,Residential area,Ang Mo Kio 2
+4911,22/3/14,6,12,997,Shopping cluster,Orchard Rd 3
+8598,22/3/14,6,12,220,Airport,Changi Airport 2
+11126,22/3/14,6,12,220,Residential area,Ang Mo Kio 2
+2764,22/3/14,7,12,862,Work cluster,CBD area 3
+12432,22/3/14,7,12,1496,Airport,Changi Airport 1
+13593,22/3/14,7,12,1574,Shopping cluster,Orchard Rd 2
+17668,22/3/14,7,12,1459,Residential area,Ang Mo Kio 1
+16417,22/3/14,7,12,220,Airport,Changi Airport 3
+16430,22/3/14,7,12,1048,Work cluster,CBD area 2
+22496,22/3/14,7,12,559,Work cluster,CBD area 1
+22670,22/3/14,7,12,220,Shopping cluster,Orchard Road 1
+23287,22/3/14,7,12,3232,Airport,Changi Airport 2
+4697,22/3/14,7,12,532,Residential area,Ang Mo Kio 2
+4911,22/3/14,7,12,1273,Shopping cluster,Orchard Rd 3
+8598,22/3/14,7,12,220,Airport,Changi Airport 2
+11126,22/3/14,7,12,235,Residential area,Ang Mo Kio 2
+12432,18/3/14,13,11,2529,Airport,Changi Airport 1
+17668,18/3/14,13,11,1566,Residential area,Ang Mo Kio 1
+23287,18/3/14,13,11,4982,Airport,Changi Airport 2
+4697,18/3/14,13,11,1593,Residential area,Ang Mo Kio 2
+4911,18/3/14,13,11,9304,Shopping cluster,Orchard Rd 3
+12432,18/3/14,14,11,2679,Airport,Changi Airport 1
+8598,18/3/14,13,11,262,Airport,Changi Airport 2
+11126,18/3/14,13,11,616,Residential area,Ang Mo Kio 2
+2764,18/3/14,14,11,10399,Work cluster,CBD area 3
+13593,18/3/14,14,11,10925,Shopping cluster,Orchard Rd 2
+17668,18/3/14,14,11,1387,Residential area,Ang Mo Kio 1
+16417,18/3/14,14,11,430,Airport,Changi Airport 3
+22496,18/3/14,14,11,9477,Work cluster,CBD area 1
+23287,18/3/14,14,11,5082,Airport,Changi Airport 2
+2764,18/3/14,22,11,3086,Work cluster,CBD area 3
+4697,18/3/14,14,11,1465,Residential area,Ang Mo Kio 2
+4911,18/3/14,14,11,8627,Shopping cluster,Orchard Rd 3
+8598,18/3/14,14,11,220,Airport,Changi Airport 2
+2764,18/3/14,15,11,9515,Work cluster,CBD area 3
+12432,18/3/14,15,11,2621,Airport,Changi Airport 1
+13593,18/3/14,15,11,11333,Shopping cluster,Orchard Rd 2
+16417,18/3/14,15,11,421,Airport,Changi Airport 3
+22496,18/3/14,15,11,8873,Work cluster,CBD area 1
+23287,18/3/14,15,11,5465,Airport,Changi Airport 2
+8598,18/3/14,21,11,274,Airport,Changi Airport 2
+4911,18/3/14,15,11,8736,Shopping cluster,Orchard Rd 3
+8598,18/3/14,15,11,293,Airport,Changi Airport 2
+2764,18/3/14,16,11,9616,Work cluster,CBD area 3
+2764,18/3/14,17,11,13915,Work cluster,CBD area 3
+12432,18/3/14,16,11,2674,Airport,Changi Airport 1
+13593,18/3/14,16,11,11054,Shopping cluster,Orchard Rd 2
+17668,18/3/14,16,11,1326,Residential area,Ang Mo Kio 1
+22670,18/3/14,16,11,2224,Shopping cluster,Orchard Road 1
+16417,18/3/14,16,11,422,Airport,Changi Airport 3
+16430,18/3/14,16,11,12422,Work cluster,CBD area 2
+23287,18/3/14,16,11,5310,Airport,Changi Airport 2
+4697,18/3/14,16,11,1481,Residential area,Ang Mo Kio 2
+4911,18/3/14,16,11,8921,Shopping cluster,Orchard Rd 3
+8598,18/3/14,23,11,220,Airport,Changi Airport 2
+8598,18/3/14,16,11,220,Airport,Changi Airport 2
+22496,18/3/14,0,11,1140,Work cluster,CBD area 1
+11126,18/3/14,16,11,530,Residential area,Ang Mo Kio 2
+17668,18/3/14,17,11,1417,Residential area,Ang Mo Kio 1
+2764,22/3/14,20,12,2912,Work cluster,CBD area 3
+12432,22/3/14,20,12,2855,Airport,Changi Airport 1
+13593,22/3/14,20,12,7833,Shopping cluster,Orchard Rd 2
+17668,22/3/14,20,12,1813,Residential area,Ang Mo Kio 1
+16430,22/3/14,20,12,4807,Work cluster,CBD area 2
+16417,22/3/14,20,12,274,Airport,Changi Airport 3
+22496,22/3/14,20,12,3886,Work cluster,CBD area 1
+22670,22/3/14,20,12,1745,Shopping cluster,Orchard Road 1
+4697,18/3/14,17,11,1954,Residential area,Ang Mo Kio 2
+22670,18/3/14,18,11,1949,Shopping cluster,Orchard Road 1
+23287,22/3/14,20,12,4723,Airport,Changi Airport 2
+8598,22/3/14,20,12,220,Airport,Changi Airport 2
+4697,22/3/14,20,12,1519,Residential area,Ang Mo Kio 2
+4911,22/3/14,20,12,8559,Shopping cluster,Orchard Rd 3
+11126,22/3/14,20,12,706,Residential area,Ang Mo Kio 2
+13593,18/3/14,19,11,9097,Shopping cluster,Orchard Rd 2
+22670,18/3/14,20,11,1460,Shopping cluster,Orchard Road 1
+4911,18/3/14,20,11,7482,Shopping cluster,Orchard Rd 3
+2764,22/3/14,21,12,2804,Work cluster,CBD area 3
+12432,22/3/14,21,12,2606,Airport,Changi Airport 1
+13593,22/3/14,21,12,6620,Shopping cluster,Orchard Rd 2
+17668,22/3/14,21,12,1794,Residential area,Ang Mo Kio 1
+16417,22/3/14,21,12,296,Airport,Changi Airport 3
+16430,22/3/14,21,12,4398,Work cluster,CBD area 2
+22496,22/3/14,21,12,3378,Work cluster,CBD area 1
+22670,22/3/14,21,12,1176,Shopping cluster,Orchard Road 1
+23287,22/3/14,21,12,4440,Airport,Changi Airport 2
+4697,22/3/14,0,12,518,Residential area,Ang Mo Kio 2
+4697,22/3/14,21,12,1437,Residential area,Ang Mo Kio 2
+4911,22/3/14,21,12,7790,Shopping cluster,Orchard Rd 3
+11126,22/3/14,21,12,668,Residential area,Ang Mo Kio 2
+4697,22/3/14,1,12,254,Residential area,Ang Mo Kio 2
+2764,22/3/14,22,12,2817,Work cluster,CBD area 3
+11126,18/3/14,9,11,529,Residential area,Ang Mo Kio 2
+12432,22/3/14,22,12,2632,Airport,Changi Airport 1
+13593,22/3/14,22,12,4160,Shopping cluster,Orchard Rd 2
+17668,22/3/14,22,12,1795,Residential area,Ang Mo Kio 1
+12432,18/3/14,21,11,2133,Airport,Changi Airport 1
+12432,18/3/14,7,11,1665,Airport,Changi Airport 1
+2764,22/3/14,12,12,3560,Work cluster,CBD area 3
+12432,18/3/14,12,11,2677,Airport,Changi Airport 1
+16430,18/3/14,22,11,4289,Work cluster,CBD area 2
+23287,18/3/14,2,11,796,Airport,Changi Airport 2
+16430,18/3/14,6,11,1579,Work cluster,CBD area 2
+22496,22/3/14,17,12,3534,Work cluster,CBD area 1
+8598,22/3/14,19,12,282,Airport,Changi Airport 2
+12432,22/3/14,1,12,607,Airport,Changi Airport 1
+23287,22/3/14,2,12,900,Airport,Changi Airport 2
+4911,22/3/14,4,12,831,Shopping cluster,Orchard Rd 3
+8598,22/3/14,21,12,220,Airport,Changi Airport 2
+2764,18/3/14,13,11,14339,Work cluster,CBD area 3
+13593,18/3/14,13,11,11011,Shopping cluster,Orchard Rd 2
+16417,18/3/14,13,11,421,Airport,Changi Airport 3
+16430,18/3/14,13,11,17298,Work cluster,CBD area 2
+22496,18/3/14,13,11,11733,Work cluster,CBD area 1
+22670,18/3/14,13,11,2547,Shopping cluster,Orchard Road 1
+22670,18/3/14,14,11,2351,Shopping cluster,Orchard Road 1
+16430,18/3/14,14,11,14538,Work cluster,CBD area 2
+17668,18/3/14,4,11,1065,Residential area,Ang Mo Kio 1
+11126,18/3/14,14,11,572,Residential area,Ang Mo Kio 2
+17668,18/3/14,15,11,1316,Residential area,Ang Mo Kio 1
+16430,18/3/14,15,11,13380,Work cluster,CBD area 2
+22670,18/3/14,15,11,2234,Shopping cluster,Orchard Road 1
+4697,18/3/14,15,11,1373,Residential area,Ang Mo Kio 2
+11126,18/3/14,15,11,517,Residential area,Ang Mo Kio 2
+22496,18/3/14,16,11,8397,Work cluster,CBD area 1
+12432,18/3/14,17,11,2767,Airport,Changi Airport 1
+13593,18/3/14,17,11,10864,Shopping cluster,Orchard Rd 2
+22670,18/3/14,22,11,389,Shopping cluster,Orchard Road 1
+16417,18/3/14,17,11,463,Airport,Changi Airport 3
+16430,18/3/14,17,11,13507,Work cluster,CBD area 2
+22496,18/3/14,17,11,9277,Work cluster,CBD area 1
+22670,18/3/14,17,11,2224,Shopping cluster,Orchard Road 1
+23287,18/3/14,17,11,5421,Airport,Changi Airport 2
+4911,18/3/14,17,11,9303,Shopping cluster,Orchard Rd 3
+8598,18/3/14,17,11,220,Airport,Changi Airport 2
+11126,18/3/14,17,11,667,Residential area,Ang Mo Kio 2
+2764,18/3/14,18,11,25370,Work cluster,CBD area 3
+16430,18/3/14,2,11,919,Work cluster,CBD area 2
+12432,18/3/14,18,11,2683,Airport,Changi Airport 1
+13593,18/3/14,18,11,10267,Shopping cluster,Orchard Rd 2
+17668,18/3/14,18,11,315,Residential area,Ang Mo Kio 1
+16417,18/3/14,18,11,428,Airport,Changi Airport 3
+16430,18/3/14,18,11,15267,Work cluster,CBD area 2
+22496,18/3/14,18,11,10575,Work cluster,CBD area 1
+23287,18/3/14,18,11,5225,Airport,Changi Airport 2
+4697,18/3/14,18,11,3435,Residential area,Ang Mo Kio 2
+4911,18/3/14,18,11,10462,Shopping cluster,Orchard Rd 3
+16417,18/3/14,20,11,282,Airport,Changi Airport 3
+8598,18/3/14,18,11,237,Airport,Changi Airport 2
+11126,18/3/14,18,11,802,Residential area,Ang Mo Kio 2
+2764,18/3/14,19,11,15245,Work cluster,CBD area 3
+12432,18/3/14,19,11,2512,Airport,Changi Airport 1
+17668,18/3/14,19,11,220,Residential area,Ang Mo Kio 1
+8598,18/3/14,20,11,220,Airport,Changi Airport 2
+16417,18/3/14,19,11,338,Airport,Changi Airport 3
+16430,18/3/14,19,11,11537,Work cluster,CBD area 2
+22496,18/3/14,19,11,8087,Work cluster,CBD area 1
+22670,18/3/14,19,11,1758,Shopping cluster,Orchard Road 1
+23287,18/3/14,19,11,4693,Airport,Changi Airport 2
+4697,18/3/14,19,11,2289,Residential area,Ang Mo Kio 2
+4911,18/3/14,19,11,9268,Shopping cluster,Orchard Rd 3
+8598,18/3/14,19,11,220,Airport,Changi Airport 2
+11126,18/3/14,19,11,681,Residential area,Ang Mo Kio 2
+13593,18/3/14,23,11,2228,Shopping cluster,Orchard Rd 2
+2764,18/3/14,20,11,7505,Work cluster,CBD area 3
+12432,18/3/14,20,11,2077,Airport,Changi Airport 1
+17668,18/3/14,20,11,1429,Residential area,Ang Mo Kio 1
+16430,18/3/14,20,11,7901,Work cluster,CBD area 2
+22496,18/3/14,20,11,5464,Work cluster,CBD area 1
+23287,18/3/14,20,11,4063,Airport,Changi Airport 2
+2764,18/3/14,23,11,1566,Work cluster,CBD area 3
+4697,18/3/14,20,11,1757,Residential area,Ang Mo Kio 2
+11126,18/3/14,20,11,744,Residential area,Ang Mo Kio 2
+2764,18/3/14,21,11,4951,Work cluster,CBD area 3
+22670,22/3/14,23,12,220,Shopping cluster,Orchard Road 1
+16417,22/3/14,22,12,317,Airport,Changi Airport 3
+16430,22/3/14,22,12,3820,Work cluster,CBD area 2
+22496,22/3/14,22,12,2680,Work cluster,CBD area 1
+22670,22/3/14,22,12,535,Shopping cluster,Orchard Road 1
+23287,22/3/14,22,12,4544,Airport,Changi Airport 2
+4697,22/3/14,22,12,1477,Residential area,Ang Mo Kio 2
+4911,22/3/14,22,12,6186,Shopping cluster,Orchard Rd 3
+8598,22/3/14,22,12,220,Airport,Changi Airport 2
+11126,22/3/14,22,12,682,Residential area,Ang Mo Kio 2
+2764,22/3/14,23,12,2035,Work cluster,CBD area 3
+12432,22/3/14,23,12,2064,Airport,Changi Airport 1
+13593,22/3/14,23,12,2427,Shopping cluster,Orchard Rd 2
+4911,22/3/14,2,12,1080,Shopping cluster,Orchard Rd 3
+17668,22/3/14,23,12,1636,Residential area,Ang Mo Kio 1
+16417,22/3/14,23,12,259,Airport,Changi Airport 3
+16430,22/3/14,23,12,3149,Work cluster,CBD area 2
+22496,22/3/14,23,12,1865,Work cluster,CBD area 1
+23287,22/3/14,23,12,3898,Airport,Changi Airport 2
+4697,22/3/14,23,12,961,Residential area,Ang Mo Kio 2
+4911,22/3/14,23,12,3650,Shopping cluster,Orchard Rd 3
+8598,22/3/14,23,12,243,Airport,Changi Airport 2
+11126,22/3/14,23,12,504,Residential area,Ang Mo Kio 2
+2764,22/3/14,0,12,471,Work cluster,CBD area 3
+12432,22/3/14,0,12,1441,Airport,Changi Airport 1
+13593,22/3/14,0,12,1665,Shopping cluster,Orchard Rd 2
+17668,22/3/14,0,12,1385,Residential area,Ang Mo Kio 1
+16417,22/3/14,0,12,220,Airport,Changi Airport 3
+16430,22/3/14,0,12,2530,Work cluster,CBD area 2
+13593,18/3/14,20,11,7113,Shopping cluster,Orchard Rd 2
+22496,22/3/14,0,12,1310,Work cluster,CBD area 1
+22670,22/3/14,0,12,220,Shopping cluster,Orchard Road 1
+23287,22/3/14,0,12,2829,Airport,Changi Airport 2
+16430,18/3/14,8,11,11712,Work cluster,CBD area 2
+11126,18/3/14,8,11,538,Residential area,Ang Mo Kio 2
+12432,18/3/14,8,11,2022,Airport,Changi Airport 1
+13593,18/3/14,8,11,4950,Shopping cluster,Orchard Rd 2
+16417,18/3/14,8,11,331,Airport,Changi Airport 3
+17668,18/3/14,8,11,1579,Residential area,Ang Mo Kio 1
+22496,18/3/14,8,11,6190,Work cluster,CBD area 1
+22670,18/3/14,8,11,561,Shopping cluster,Orchard Road 1
+23287,18/3/14,8,11,4882,Airport,Changi Airport 2
+2764,18/3/14,8,11,13704,Work cluster,CBD area 3
+4697,18/3/14,8,11,2793,Residential area,Ang Mo Kio 2
+4911,18/3/14,8,11,4513,Shopping cluster,Orchard Rd 3
+8598,18/3/14,8,11,267,Airport,Changi Airport 2
+2764,18/3/14,9,11,10454,Work cluster,CBD area 3
+12432,18/3/14,9,11,1921,Airport,Changi Airport 1
+13593,18/3/14,9,11,6593,Shopping cluster,Orchard Rd 2
+17668,18/3/14,9,11,1553,Residential area,Ang Mo Kio 1
+16430,18/3/14,9,11,13686,Work cluster,CBD area 2
+16417,18/3/14,9,11,301,Airport,Changi Airport 3
+22496,18/3/14,9,11,8127,Work cluster,CBD area 1
+22670,18/3/14,9,11,1109,Shopping cluster,Orchard Road 1
+23287,18/3/14,9,11,4222,Airport,Changi Airport 2
+4697,18/3/14,9,11,1553,Residential area,Ang Mo Kio 2
+4911,18/3/14,9,11,5359,Shopping cluster,Orchard Rd 3
+8598,18/3/14,9,11,325,Airport,Changi Airport 2
+2764,18/3/14,10,11,8271,Work cluster,CBD area 3
+12432,18/3/14,10,11,1907,Airport,Changi Airport 1
+13593,18/3/14,10,11,8093,Shopping cluster,Orchard Rd 2
+17668,18/3/14,10,11,1478,Residential area,Ang Mo Kio 1
+16430,18/3/14,10,11,12913,Work cluster,CBD area 2
+16417,18/3/14,10,11,282,Airport,Changi Airport 3
+22496,18/3/14,10,11,7966,Work cluster,CBD area 1
+22670,18/3/14,10,11,1557,Shopping cluster,Orchard Road 1
+23287,18/3/14,10,11,4265,Airport,Changi Airport 2
+4697,18/3/14,10,11,1400,Residential area,Ang Mo Kio 2
+4911,18/3/14,10,11,5761,Shopping cluster,Orchard Rd 3
+8598,18/3/14,10,11,220,Airport,Changi Airport 2
+11126,18/3/14,10,11,562,Residential area,Ang Mo Kio 2
+2764,18/3/14,11,11,10364,Work cluster,CBD area 3
+12432,18/3/14,11,11,2215,Airport,Changi Airport 1
+13593,18/3/14,11,11,9480,Shopping cluster,Orchard Rd 2
+17668,18/3/14,11,11,1516,Residential area,Ang Mo Kio 1
+16417,18/3/14,11,11,305,Airport,Changi Airport 3
+16430,18/3/14,11,11,15277,Work cluster,CBD area 2
+22496,18/3/14,11,11,9717,Work cluster,CBD area 1
+22670,18/3/14,11,11,1967,Shopping cluster,Orchard Road 1
+23287,18/3/14,11,11,4767,Airport,Changi Airport 2
+4697,18/3/14,11,11,1502,Residential area,Ang Mo Kio 2
+4911,18/3/14,11,11,7313,Shopping cluster,Orchard Rd 3
+8598,18/3/14,11,11,244,Airport,Changi Airport 2
+11126,18/3/14,11,11,618,Residential area,Ang Mo Kio 2
+2764,18/3/14,12,11,14615,Work cluster,CBD area 3
+13593,18/3/14,12,11,10564,Shopping cluster,Orchard Rd 2
+17668,18/3/14,12,11,1654,Residential area,Ang Mo Kio 1
+16417,18/3/14,12,11,407,Airport,Changi Airport 3
+16430,18/3/14,12,11,19033,Work cluster,CBD area 2
+22496,18/3/14,12,11,12992,Work cluster,CBD area 1
+22670,18/3/14,12,11,2382,Shopping cluster,Orchard Road 1
+23287,18/3/14,12,11,5029,Airport,Changi Airport 2
+4697,18/3/14,12,11,1683,Residential area,Ang Mo Kio 2
+4911,18/3/14,12,11,9277,Shopping cluster,Orchard Rd 3
+8598,18/3/14,12,11,262,Airport,Changi Airport 2
+11126,18/3/14,12,11,601,Residential area,Ang Mo Kio 2
+13593,18/3/14,21,11,5765,Shopping cluster,Orchard Rd 2
+17668,18/3/14,21,11,1909,Residential area,Ang Mo Kio 1
+16417,18/3/14,21,11,279,Airport,Changi Airport 3
+16430,18/3/14,21,11,5881,Work cluster,CBD area 2
+22496,18/3/14,21,11,4178,Work cluster,CBD area 1
+22670,18/3/14,21,11,964,Shopping cluster,Orchard Road 1
+23287,18/3/14,21,11,3893,Airport,Changi Airport 2
+4697,18/3/14,21,11,1652,Residential area,Ang Mo Kio 2
+4911,18/3/14,21,11,6537,Shopping cluster,Orchard Rd 3
+11126,18/3/14,21,11,739,Residential area,Ang Mo Kio 2
+12432,18/3/14,22,11,1992,Airport,Changi Airport 1
+13593,18/3/14,22,11,3596,Shopping cluster,Orchard Rd 2
+17668,18/3/14,22,11,1704,Residential area,Ang Mo Kio 1
+16417,18/3/14,22,11,284,Airport,Changi Airport 3
+23287,18/3/14,22,11,3972,Airport,Changi Airport 2
+22496,18/3/14,22,11,2886,Work cluster,CBD area 1
+4697,18/3/14,22,11,1312,Residential area,Ang Mo Kio 2
+4911,18/3/14,22,11,4238,Shopping cluster,Orchard Rd 3
+8598,18/3/14,22,11,245,Airport,Changi Airport 2
+11126,18/3/14,22,11,601,Residential area,Ang Mo Kio 2
+12432,18/3/14,23,11,1399,Airport,Changi Airport 1
+17668,18/3/14,23,11,1519,Residential area,Ang Mo Kio 1
+16417,18/3/14,23,11,220,Airport,Changi Airport 3
+16430,18/3/14,23,11,2943,Work cluster,CBD area 2
+22496,18/3/14,23,11,1849,Work cluster,CBD area 1
+22670,18/3/14,23,11,220,Shopping cluster,Orchard Road 1
+23287,18/3/14,23,11,3275,Airport,Changi Airport 2
+4697,18/3/14,23,11,818,Residential area,Ang Mo Kio 2
+4911,18/3/14,23,11,2242,Shopping cluster,Orchard Rd 3
+11126,18/3/14,23,11,443,Residential area,Ang Mo Kio 2
+2764,18/3/14,0,11,432,Work cluster,CBD area 3
+12432,18/3/14,0,11,801,Airport,Changi Airport 1
+13593,18/3/14,0,11,1486,Shopping cluster,Orchard Rd 2
+17668,18/3/14,0,11,1245,Residential area,Ang Mo Kio 1
+16417,18/3/14,0,11,220,Airport,Changi Airport 3
+16430,18/3/14,0,11,1761,Work cluster,CBD area 2
+22670,18/3/14,0,11,220,Shopping cluster,Orchard Road 1
+23287,18/3/14,0,11,2174,Airport,Changi Airport 2
+4697,18/3/14,0,11,400,Residential area,Ang Mo Kio 2
+4911,18/3/14,0,11,1258,Shopping cluster,Orchard Rd 3
+8598,18/3/14,0,11,220,Airport,Changi Airport 2
+2764,18/3/14,1,11,298,Work cluster,CBD area 3
+11126,18/3/14,0,11,251,Residential area,Ang Mo Kio 2
+12432,18/3/14,1,11,481,Airport,Changi Airport 1
+13593,18/3/14,1,11,1251,Shopping cluster,Orchard Rd 2
+17668,18/3/14,1,11,1178,Residential area,Ang Mo Kio 1
+16417,18/3/14,1,11,220,Airport,Changi Airport 3
+16430,18/3/14,1,11,1287,Work cluster,CBD area 2
+22496,18/3/14,1,11,787,Work cluster,CBD area 1
+22670,18/3/14,1,11,220,Shopping cluster,Orchard Road 1
+23287,18/3/14,1,11,1349,Airport,Changi Airport 2
+4697,18/3/14,1,11,220,Residential area,Ang Mo Kio 2
+4911,18/3/14,1,11,988,Shopping cluster,Orchard Rd 3
+8598,18/3/14,1,11,220,Airport,Changi Airport 2
+11126,18/3/14,1,11,220,Residential area,Ang Mo Kio 2
+2764,18/3/14,2,11,220,Work cluster,CBD area 3
+12432,18/3/14,2,11,316,Airport,Changi Airport 1
+13593,18/3/14,2,11,1032,Shopping cluster,Orchard Rd 2
+17668,18/3/14,2,11,1065,Residential area,Ang Mo Kio 1
+4911,18/3/14,2,11,748,Shopping cluster,Orchard Rd 3
+16417,18/3/14,2,11,220,Airport,Changi Airport 3
+22496,18/3/14,2,11,548,Work cluster,CBD area 1
+22670,18/3/14,2,11,220,Shopping cluster,Orchard Road 1
+4697,18/3/14,2,11,220,Residential area,Ang Mo Kio 2
+8598,18/3/14,2,11,220,Airport,Changi Airport 2
+11126,18/3/14,2,11,220,Residential area,Ang Mo Kio 2
+12432,18/3/14,3,11,296,Airport,Changi Airport 1
+13593,18/3/14,3,11,1109,Shopping cluster,Orchard Rd 2
+17668,18/3/14,3,11,1115,Residential area,Ang Mo Kio 1
+16417,18/3/14,3,11,220,Airport,Changi Airport 3
+16430,18/3/14,3,11,658,Work cluster,CBD area 2
+22670,18/3/14,3,11,220,Shopping cluster,Orchard Road 1
+2764,18/3/14,3,11,220,Work cluster,CBD area 3
+22496,18/3/14,3,11,377,Work cluster,CBD area 1
+4697,18/3/14,3,11,220,Residential area,Ang Mo Kio 2
+23287,18/3/14,3,11,823,Airport,Changi Airport 2
+4911,18/3/14,3,11,803,Shopping cluster,Orchard Rd 3
+8598,18/3/14,3,11,220,Airport,Changi Airport 2
+11126,18/3/14,3,11,220,Residential area,Ang Mo Kio 2
+12432,18/3/14,4,11,380,Airport,Changi Airport 1
+13593,18/3/14,4,11,1004,Shopping cluster,Orchard Rd 2
+8598,18/3/14,5,11,220,Airport,Changi Airport 2
+16417,18/3/14,4,11,220,Airport,Changi Airport 3
+16430,18/3/14,4,11,487,Work cluster,CBD area 2
+22670,18/3/14,4,11,220,Shopping cluster,Orchard Road 1
+2764,18/3/14,4,11,220,Work cluster,CBD area 3
+22496,18/3/14,4,11,310,Work cluster,CBD area 1
+23287,18/3/14,4,11,908,Airport,Changi Airport 2
+4697,18/3/14,4,11,220,Residential area,Ang Mo Kio 2
+4911,18/3/14,4,11,631,Shopping cluster,Orchard Rd 3
+8598,18/3/14,4,11,220,Airport,Changi Airport 2
+11126,18/3/14,4,11,220,Residential area,Ang Mo Kio 2
+12432,18/3/14,5,11,691,Airport,Changi Airport 1
+13593,18/3/14,5,11,1152,Shopping cluster,Orchard Rd 2
+4911,18/3/14,5,11,785,Shopping cluster,Orchard Rd 3
+17668,18/3/14,5,11,1206,Residential area,Ang Mo Kio 1
+16417,18/3/14,5,11,220,Airport,Changi Airport 3
+16430,18/3/14,5,11,596,Work cluster,CBD area 2
+2764,18/3/14,5,11,220,Work cluster,CBD area 3
+22496,18/3/14,5,11,388,Work cluster,CBD area 1
+22670,18/3/14,5,11,220,Shopping cluster,Orchard Road 1
+23287,18/3/14,5,11,1703,Airport,Changi Airport 2
+4697,18/3/14,5,11,220,Residential area,Ang Mo Kio 2
+11126,18/3/14,5,11,220,Residential area,Ang Mo Kio 2
+12432,18/3/14,6,11,1173,Airport,Changi Airport 1
+13593,18/3/14,6,11,1597,Shopping cluster,Orchard Rd 2
+17668,18/3/14,6,11,1349,Residential area,Ang Mo Kio 1
+16417,18/3/14,6,11,220,Airport,Changi Airport 3
+22670,18/3/14,6,11,220,Shopping cluster,Orchard Road 1
+2764,18/3/14,6,11,1076,Work cluster,CBD area 3
+22496,18/3/14,6,11,825,Work cluster,CBD area 1
+23287,18/3/14,6,11,3014,Airport,Changi Airport 2
+13593,18/3/14,7,11,2707,Shopping cluster,Orchard Rd 2
+4697,18/3/14,6,11,458,Residential area,Ang Mo Kio 2
+4911,18/3/14,6,11,1071,Shopping cluster,Orchard Rd 3
+8598,18/3/14,6,11,252,Airport,Changi Airport 2
+11126,18/3/14,6,11,220,Residential area,Ang Mo Kio 2
+17668,18/3/14,7,11,1767,Residential area,Ang Mo Kio 1
+16417,18/3/14,7,11,221,Airport,Changi Airport 3
+16430,18/3/14,7,11,5350,Work cluster,CBD area 2
+2764,18/3/14,7,11,4216,Work cluster,CBD area 3
+22496,18/3/14,7,11,2795,Work cluster,CBD area 1
+22670,18/3/14,7,11,220,Shopping cluster,Orchard Road 1
+23287,18/3/14,7,11,4263,Airport,Changi Airport 2
+4697,18/3/14,7,11,2048,Residential area,Ang Mo Kio 2
+4911,18/3/14,7,11,2310,Shopping cluster,Orchard Rd 3
+8598,18/3/14,7,11,319,Airport,Changi Airport 2
+11126,18/3/14,7,11,398,Residential area,Ang Mo Kio 2
+2764,22/3/14,8,12,1764,Work cluster,CBD area 3
+12432,22/3/14,8,12,1717,Airport,Changi Airport 1
+13593,22/3/14,8,12,3567,Shopping cluster,Orchard Rd 2
+17668,22/3/14,8,12,1933,Residential area,Ang Mo Kio 1
+4911,22/3/14,8,12,2467,Shopping cluster,Orchard Rd 3
+16417,22/3/14,8,12,265,Airport,Changi Airport 3
+16430,22/3/14,8,12,2338,Work cluster,CBD area 2
+22496,22/3/14,8,12,1381,Work cluster,CBD area 1
+22670,22/3/14,8,12,325,Shopping cluster,Orchard Road 1
+23287,22/3/14,8,12,4050,Airport,Changi Airport 2
+4697,22/3/14,8,12,1223,Residential area,Ang Mo Kio 2
+8598,22/3/14,8,12,273,Airport,Changi Airport 2
+11126,22/3/14,8,12,414,Residential area,Ang Mo Kio 2
+2764,22/3/14,9,12,2333,Work cluster,CBD area 3
+12432,22/3/14,9,12,1642,Airport,Changi Airport 1
+13593,22/3/14,9,12,5753,Shopping cluster,Orchard Rd 2
+17668,22/3/14,9,12,2230,Residential area,Ang Mo Kio 1
+16417,22/3/14,9,12,229,Airport,Changi Airport 3
+16430,22/3/14,9,12,3259,Work cluster,CBD area 2
+22496,22/3/14,9,12,2101,Work cluster,CBD area 1
+22670,22/3/14,9,12,859,Shopping cluster,Orchard Road 1
+23287,22/3/14,9,12,3570,Airport,Changi Airport 2
+4697,22/3/14,9,12,1374,Residential area,Ang Mo Kio 2
+4911,22/3/14,9,12,4101,Shopping cluster,Orchard Rd 3
+8598,22/3/14,9,12,230,Airport,Changi Airport 2
+11126,22/3/14,9,12,560,Residential area,Ang Mo Kio 2
+2764,22/3/14,10,12,2723,Work cluster,CBD area 3
+12432,22/3/14,10,12,1662,Airport,Changi Airport 1
+13593,22/3/14,10,12,7943,Shopping cluster,Orchard Rd 2
+23287,22/3/14,10,12,3551,Airport,Changi Airport 2
+17668,22/3/14,10,12,2334,Residential area,Ang Mo Kio 1
+16417,22/3/14,10,12,265,Airport,Changi Airport 3
+16430,22/3/14,10,12,3996,Work cluster,CBD area 2
+22496,22/3/14,10,12,2760,Work cluster,CBD area 1
+22670,22/3/14,10,12,1455,Shopping cluster,Orchard Road 1
+4911,22/3/14,10,12,5332,Shopping cluster,Orchard Rd 3
+4697,22/3/14,10,12,1422,Residential area,Ang Mo Kio 2
+8598,22/3/14,10,12,220,Airport,Changi Airport 2
+11126,22/3/14,10,12,639,Residential area,Ang Mo Kio 2
+2764,22/3/14,11,12,3148,Work cluster,CBD area 3
+13593,22/3/14,11,12,9495,Shopping cluster,Orchard Rd 2
+12432,22/3/14,11,12,1761,Airport,Changi Airport 1
+17668,22/3/14,11,12,2108,Residential area,Ang Mo Kio 1
+16430,22/3/14,11,12,4578,Work cluster,CBD area 2
+16417,22/3/14,11,12,230,Airport,Changi Airport 3
+23287,22/3/14,11,12,3857,Airport,Changi Airport 2
+22496,22/3/14,11,12,3411,Work cluster,CBD area 1
+22670,22/3/14,11,12,2041,Shopping cluster,Orchard Road 1
+4697,22/3/14,11,12,1550,Residential area,Ang Mo Kio 2
+4911,22/3/14,11,12,7248,Shopping cluster,Orchard Rd 3
+8598,22/3/14,11,12,220,Airport,Changi Airport 2
+11126,22/3/14,11,12,669,Residential area,Ang Mo Kio 2
+12432,22/3/14,12,12,1947,Airport,Changi Airport 1
+13593,22/3/14,12,12,10431,Shopping cluster,Orchard Rd 2
+17668,22/3/14,12,12,2202,Residential area,Ang Mo Kio 1
+16417,22/3/14,12,12,220,Airport,Changi Airport 3
+16430,22/3/14,12,12,4654,Work cluster,CBD area 2
+22496,22/3/14,12,12,3885,Work cluster,CBD area 1
+22670,22/3/14,12,12,2443,Shopping cluster,Orchard Road 1
+11126,22/3/14,12,12,639,Residential area,Ang Mo Kio 2
+23287,22/3/14,12,12,4037,Airport,Changi Airport 2
+4697,22/3/14,12,12,1769,Residential area,Ang Mo Kio 2
+4911,22/3/14,12,12,8525,Shopping cluster,Orchard Rd 3
+8598,22/3/14,12,12,282,Airport,Changi Airport 2
+2764,22/3/14,13,12,4114,Work cluster,CBD area 3
+12432,22/3/14,13,12,2045,Airport,Changi Airport 1
+13593,22/3/14,13,12,11055,Shopping cluster,Orchard Rd 2
+17668,22/3/14,13,12,2065,Residential area,Ang Mo Kio 1
+16430,22/3/14,13,12,5019,Work cluster,CBD area 2
+16417,22/3/14,13,12,245,Airport,Changi Airport 3
+22496,22/3/14,13,12,4293,Work cluster,CBD area 1
+22670,22/3/14,13,12,2761,Shopping cluster,Orchard Road 1
+23287,22/3/14,13,12,3891,Airport,Changi Airport 2
+4697,22/3/14,13,12,1752,Residential area,Ang Mo Kio 2
+4911,22/3/14,13,12,9802,Shopping cluster,Orchard Rd 3
+8598,22/3/14,13,12,316,Airport,Changi Airport 2
+11126,22/3/14,13,12,578,Residential area,Ang Mo Kio 2
+2764,22/3/14,14,12,3718,Work cluster,CBD area 3
+12432,22/3/14,14,12,2449,Airport,Changi Airport 1
+13593,22/3/14,14,12,11392,Shopping cluster,Orchard Rd 2
+17668,22/3/14,14,12,1594,Residential area,Ang Mo Kio 1
+16430,22/3/14,14,12,4930,Work cluster,CBD area 2
+16417,22/3/14,14,12,296,Airport,Changi Airport 3
+22496,22/3/14,14,12,4017,Work cluster,CBD area 1
+22670,22/3/14,14,12,2492,Shopping cluster,Orchard Road 1
+23287,22/3/14,14,12,4387,Airport,Changi Airport 2
+4697,22/3/14,14,12,1491,Residential area,Ang Mo Kio 2
+4911,22/3/14,14,12,10135,Shopping cluster,Orchard Rd 3
+8598,22/3/14,14,12,253,Airport,Changi Airport 2
+11126,22/3/14,14,12,571,Residential area,Ang Mo Kio 2
+2764,22/3/14,15,12,3689,Work cluster,CBD area 3
+12432,22/3/14,15,12,2602,Airport,Changi Airport 1
+13593,22/3/14,15,12,11825,Shopping cluster,Orchard Rd 2
+17668,22/3/14,15,12,1745,Residential area,Ang Mo Kio 1
+16417,22/3/14,15,12,306,Airport,Changi Airport 3
+16430,22/3/14,15,12,4599,Work cluster,CBD area 2
+22670,22/3/14,15,12,2505,Shopping cluster,Orchard Road 1
+22496,22/3/14,15,12,3664,Work cluster,CBD area 1
+23287,22/3/14,15,12,4568,Airport,Changi Airport 2
+4697,22/3/14,15,12,1519,Residential area,Ang Mo Kio 2
+4911,22/3/14,15,12,10775,Shopping cluster,Orchard Rd 3
+8598,22/3/14,15,12,277,Airport,Changi Airport 2
+11126,22/3/14,15,12,602,Residential area,Ang Mo Kio 2
+2764,22/3/14,16,12,3520,Work cluster,CBD area 3
+12432,22/3/14,16,12,2377,Airport,Changi Airport 1
+13593,22/3/14,16,12,11581,Shopping cluster,Orchard Rd 2
+17668,22/3/14,16,12,1729,Residential area,Ang Mo Kio 1
+16417,22/3/14,16,12,260,Airport,Changi Airport 3
+16430,22/3/14,16,12,4298,Work cluster,CBD area 2
+22496,22/3/14,16,12,3439,Work cluster,CBD area 1
+22670,22/3/14,16,12,2339,Shopping cluster,Orchard Road 1
+23287,22/3/14,16,12,4466,Airport,Changi Airport 2
+4697,22/3/14,16,12,1399,Residential area,Ang Mo Kio 2
+4911,22/3/14,16,12,10870,Shopping cluster,Orchard Rd 3
+8598,22/3/14,16,12,266,Airport,Changi Airport 2
+11126,22/3/14,16,12,578,Residential area,Ang Mo Kio 2
+2764,22/3/14,17,12,3730,Work cluster,CBD area 3
+12432,22/3/14,17,12,2522,Airport,Changi Airport 1
+13593,22/3/14,17,12,11130,Shopping cluster,Orchard Rd 2
+17668,22/3/14,17,12,1675,Residential area,Ang Mo Kio 1
+22670,22/3/14,17,12,2343,Shopping cluster,Orchard Road 1
+16417,22/3/14,17,12,306,Airport,Changi Airport 3
+16430,22/3/14,17,12,4368,Work cluster,CBD area 2
+23287,22/3/14,17,12,4749,Airport,Changi Airport 2
+4697,22/3/14,17,12,1692,Residential area,Ang Mo Kio 2
+4911,22/3/14,17,12,11034,Shopping cluster,Orchard Rd 3
+16417,22/3/14,2,12,220,Airport,Changi Airport 3
+8598,22/3/14,17,12,231,Airport,Changi Airport 2
+11126,22/3/14,17,12,671,Residential area,Ang Mo Kio 2
+2764,22/3/14,18,12,3842,Work cluster,CBD area 3
+12432,22/3/14,18,12,2690,Airport,Changi Airport 1
+13593,22/3/14,18,12,10645,Shopping cluster,Orchard Rd 2
+8598,22/3/14,18,12,279,Airport,Changi Airport 2
+17668,22/3/14,18,12,1679,Residential area,Ang Mo Kio 1
+16417,22/3/14,18,12,328,Airport,Changi Airport 3
+16430,22/3/14,18,12,4964,Work cluster,CBD area 2
+22496,22/3/14,18,12,3995,Work cluster,CBD area 1
+22670,22/3/14,18,12,2188,Shopping cluster,Orchard Road 1
+23287,22/3/14,18,12,5139,Airport,Changi Airport 2
+4697,22/3/14,18,12,1810,Residential area,Ang Mo Kio 2
+4911,22/3/14,18,12,11157,Shopping cluster,Orchard Rd 3
+11126,22/3/14,18,12,701,Residential area,Ang Mo Kio 2
+2764,22/3/14,19,12,3451,Work cluster,CBD area 3
+12432,22/3/14,19,12,2855,Airport,Changi Airport 1
+13593,22/3/14,19,12,9485,Shopping cluster,Orchard Rd 2
+17668,22/3/14,19,12,1923,Residential area,Ang Mo Kio 1
+16417,22/3/14,19,12,364,Airport,Changi Airport 3
+16430,22/3/14,19,12,5122,Work cluster,CBD area 2
+22496,22/3/14,19,12,4337,Work cluster,CBD area 1
+23287,22/3/14,19,12,5350,Airport,Changi Airport 2
+22670,22/3/14,19,12,2055,Shopping cluster,Orchard Road 1
+4697,22/3/14,19,12,1693,Residential area,Ang Mo Kio 2
+4911,22/3/14,19,12,9964,Shopping cluster,Orchard Rd 3
+11126,22/3/14,19,12,692,Residential area,Ang Mo Kio 2
+4911,22/3/14,0,12,1905,Shopping cluster,Orchard Rd 3
+8598,22/3/14,0,12,220,Airport,Changi Airport 2
+11126,22/3/14,0,12,344,Residential area,Ang Mo Kio 2
+2764,22/3/14,1,12,394,Work cluster,CBD area 3
+13593,22/3/14,1,12,1199,Shopping cluster,Orchard Rd 2
+17668,22/3/14,1,12,1246,Residential area,Ang Mo Kio 1
+16417,22/3/14,1,12,220,Airport,Changi Airport 3
+16430,22/3/14,1,12,2097,Work cluster,CBD area 2
+22496,22/3/14,1,12,986,Work cluster,CBD area 1
+22670,22/3/14,1,12,220,Shopping cluster,Orchard Road 1
+23287,22/3/14,1,12,1472,Airport,Changi Airport 2
+4911,22/3/14,1,12,1505,Shopping cluster,Orchard Rd 3
+8598,22/3/14,1,12,220,Airport,Changi Airport 2
+11126,22/3/14,1,12,220,Residential area,Ang Mo Kio 2
+4697,22/3/14,2,12,220,Residential area,Ang Mo Kio 2
+2764,22/3/14,2,12,351,Work cluster,CBD area 3
+12432,22/3/14,2,12,358,Airport,Changi Airport 1
+13593,22/3/14,2,12,977,Shopping cluster,Orchard Rd 2
+17668,22/3/14,2,12,1143,Residential area,Ang Mo Kio 1
+16430,22/3/14,2,12,1785,Work cluster,CBD area 2
+22496,22/3/14,2,12,782,Work cluster,CBD area 1
+22670,22/3/14,2,12,220,Shopping cluster,Orchard Road 1
+8598,22/3/14,2,12,220,Airport,Changi Airport 2
+11126,22/3/14,2,12,220,Residential area,Ang Mo Kio 2
+8598,22/3/14,3,12,220,Airport,Changi Airport 2
+2764,22/3/14,3,12,229,Work cluster,CBD area 3
+12432,22/3/14,3,12,301,Airport,Changi Airport 1
+13593,22/3/14,3,12,856,Shopping cluster,Orchard Rd 2
+16417,22/3/14,5,12,220,Airport,Changi Airport 3
+17668,22/3/14,3,12,1106,Residential area,Ang Mo Kio 1
+16417,22/3/14,3,12,220,Airport,Changi Airport 3
+16430,22/3/14,3,12,1376,Work cluster,CBD area 2
